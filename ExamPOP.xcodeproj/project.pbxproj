@@ -7,7 +7,6 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		32B6B21A28F28E86001E73C2 /* MacBook.swift in Sources */ = {isa = PBXBuildFile; fileRef = 32B6B21928F28E86001E73C2 /* MacBook.swift */; };
 		32E2D5B528EE9D2F005C84F8 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 32E2D5B428EE9D2F005C84F8 /* main.swift */; };
 		32E2D5BC28EE9D72005C84F8 /* Protocol.swift in Sources */ = {isa = PBXBuildFile; fileRef = 32E2D5BB28EE9D72005C84F8 /* Protocol.swift */; };
 /* End PBXBuildFile section */
@@ -25,7 +24,6 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
-		32B6B21928F28E86001E73C2 /* MacBook.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MacBook.swift; sourceTree = "<group>"; };
 		32E2D5B128EE9D2F005C84F8 /* ExamPOP */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = ExamPOP; sourceTree = BUILT_PRODUCTS_DIR; };
 		32E2D5B428EE9D2F005C84F8 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		32E2D5BB28EE9D72005C84F8 /* Protocol.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Protocol.swift; sourceTree = "<group>"; };
@@ -63,7 +61,6 @@
 			children = (
 				32E2D5B428EE9D2F005C84F8 /* main.swift */,
 				32E2D5BB28EE9D72005C84F8 /* Protocol.swift */,
-				32B6B21928F28E86001E73C2 /* MacBook.swift */,
 			);
 			path = ExamPOP;
 			sourceTree = "<group>";
@@ -127,7 +124,6 @@
 			buildActionMask = 2147483647;
 			files = (
 				32E2D5B528EE9D2F005C84F8 /* main.swift in Sources */,
-				32B6B21A28F28E86001E73C2 /* MacBook.swift in Sources */,
 				32E2D5BC28EE9D72005C84F8 /* Protocol.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
