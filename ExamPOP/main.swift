@@ -9,4 +9,3 @@ import Foundation
 
 typealias WattPerHour = Int
 typealias Watt = Int
-print("테스트")

@@ -10,6 +10,6 @@ import Foundation
 protocol Chargeable {
     var maximumWattPerHour: WattPerHour {get}
     
-    func convert(chargeableWattPerHourL: WattPerHour) -> WattPerHour
+    func convert(chargeableWattPerHour: WattPerHour) -> WattPerHour
     
 }
